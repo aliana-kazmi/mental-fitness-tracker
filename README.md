@@ -61,17 +61,22 @@ A machine learning project designed to analyze and track mental fitness using da
 
 ## Results
 
-### Training Set
+The model performance for training set
+--------------------------------------
+MSE is 0.005276217088551818
 
-- MSE: 0.00123
-- RMSE: 0.0351
-- R² Score: 0.9985
+RMSE is 0.07263757353155334
 
-### Testing Set
+R2 score is 0.999018080885132
 
-- MSE: 0.00621
-- RMSE: 0.0788
-- R² Score: 0.9928
+
+The model performance for testing set
+--------------------------------------
+MSE is 0.030082319628787615
+
+RMSE is 0.1734425542615987
+
+R2 score is 0.993746436032746
 
 These results indicate that the model performs with high accuracy both during training and on unseen test data, showing strong generalization capabilities.
 
