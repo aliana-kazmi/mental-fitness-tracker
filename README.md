@@ -8,7 +8,7 @@ A machine learning project designed to analyze and track mental fitness using da
 
 ```
 ├── ai-mental-fitness-tracker.ipynb     # Main Jupyter Notebook
-├── data-sources/
+├── data_sources/
 │   └── mental-and-substance-use-as-share-of-disease.csv # Dataset used in the project
 │   └── prevalence-by-mental-and-substance-use-disorder.csv # Dataset used in the project
 └── README.md                           # Project documentation
